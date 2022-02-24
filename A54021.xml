@@ -1,0 +1,505 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mvltvm in parvo lately come to town with some reflections upon His Majesties late regulators, or, (as some do call them) the booted apostles : with some other observations, not unworthy (at this present juncture) any true English man's perusal / by T.P. an orthodox and loyal Protestant, though by some nick-named, a latitudinarian trimmer.</title>
+            <author>T. P., Orthodox and loyal Protestant.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54021</idno>
+            <idno type="STC">Wing P115</idno>
+            <idno type="STC">ESTC R4119</idno>
+            <idno type="EEBO-CITATION">12787641</idno>
+            <idno type="OCLC">ocm 12787641</idno>
+            <idno type="VID">93907</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54021)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93907)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 725:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mvltvm in parvo lately come to town with some reflections upon His Majesties late regulators, or, (as some do call them) the booted apostles : with some other observations, not unworthy (at this present juncture) any true English man's perusal / by T.P. an orthodox and loyal Protestant, though by some nick-named, a latitudinarian trimmer.</title>
+                  <author>T. P., Orthodox and loyal Protestant.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1660-1714</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license_to_print">
+            <pb facs="tcp:93907:1"/>
+            <!-- PDF PAGE 42 -->
+            <p>Licenſed,</p>
+            <closer>
+               <signed>Ro. L'Eſtrange.</signed>
+               <date>
+                  <hi>February</hi> 17. 1687/8.</date>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:93907:1"/>
+            <!-- PDF PAGE 42 -->
+            <p>
+               <hi>M<g ref="char:V">Ʋ</g>LT<g ref="char:V">Ʋ</g>M IN PARVO:</hi> Lately come to TOWN.</p>
+            <p>WITH SOME REFLECTIONS UPON His Majeſties Late REGULATORS; OR, (As ſome do call them,) <hi>The Booted Apoſtles.</hi>
+            </p>
+            <p>With ſome other Obſervations, not unworthy (at this preſent juncture) any true <hi>Engliſh</hi> Man's Peruſal.</p>
+            <p>By <hi>T. P.</hi> An Orthodox and Loyal Proteſtant, though by ſome Nick-named, <hi>A Latitudinarian Trimmer.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1688.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:93907:2"/>
+            <!-- PDF PAGE 43 -->
+            <pb n="3" facs="tcp:93907:2"/>
+            <!-- PDF PAGE 43 -->
+            <head>
+               <hi>SOME REFLECTIONS UPON</hi> His Majeſties late REG<g ref="char:V">Ʋ</g>LATORS, <hi>&amp;c.</hi>
+            </head>
+            <l>THeſe Regulators ſome think were to Blame,</l>
+            <l>And a great Blot unto their Chriſtian Name,</l>
+            <l>As they were ſuch: But we deny the Fact,</l>
+            <l>And here declare, it was a Noble Act,</l>
+            <l>And truly Loyal, for their Country's Good,</l>
+            <l>When once they are, but fairly Underſtood:</l>
+            <l>(Though we have hear'd them much Traduc'd by thoſe</l>
+            <l>Who can't diſtinguiſh between <hi>Doves</hi> and <hi>Crows</hi>)</l>
+            <l>What was their Aim, or what was their Intent</l>
+            <l>In this Affair. Only a PARLIAMENT</l>
+            <l>To get and Sit, as ſhould with them all bring</l>
+            <l>A Healing Spirit to our Lord and KING;</l>
+            <l>Who did declare ſo juſt and fair that he</l>
+            <l>Would give to all true Chriſtian <hi>Liberty.</hi>
+            </l>
+            <l>And if the Country would Elect ſuch Men,</l>
+            <l>And them Return for his great Council, then</l>
+            <l>Whatever they (as <hi>Sages</hi>) ſhould Debate</l>
+            <l>For <hi>England</hi>'s Good, both in the Church and State,</l>
+            <pb n="4" facs="tcp:93907:3"/>
+            <!-- PDF PAGE 44 -->
+            <l>He freely would concur with all his Heart,</l>
+            <l>Provided that His Subjects might not Smart</l>
+            <l>After his Death, when mounted up on High,</l>
+            <l>There to enjoy a Vaſt ETERNITY.</l>
+            <l>This was his Care, and this was his Deſire,</l>
+            <l>To quench the Flames of that Unchriſtian Fire,</l>
+            <l>By which his Subjects had been Scorch'd to Death,</l>
+            <l>And ſtill will be, ſo long as <hi>ſome</hi> have Breath.</l>
+            <l>If Laws won't Bind us, what will Bind us then?</l>
+            <l>Unleſs it be a Force of Armed Men,</l>
+            <l>Who know no Laws, but all our Rights devour;</l>
+            <l>The longeſt Sword, to them creates a Power.</l>
+            <l>This is the Mode, and this the curſed Fate,</l>
+            <l>When Armed Men do rule the Church and State.</l>
+            <l>Heavens keep us all in Safety from all ſuch,</l>
+            <l>Whether <hi>Engliſh French,</hi> or <hi>hogan mogan Dutch.</hi>
+            </l>
+            <l>But when good Laws are made with one Conſent,</l>
+            <l>By <hi>Prince</hi> and <hi>People,</hi> in a PARLIAMENT;</l>
+            <l>And theſe Good Laws extend to all Degrees,</l>
+            <l>And none of them are mix'd with <hi>Sower Lees.</hi>
+            </l>
+            <l>Of <hi>Penal Statutes,</hi> to Oppreſs all ſuch</l>
+            <l>As will not go unto their Pariſh-Church;</l>
+            <l>And after this, the Prince will keep up ſtill</l>
+            <l>His Armed Force, and Rule by his own Will;</l>
+            <l>In ſuch a Caſe, the <hi>Prince</hi> is much to Blame,</l>
+            <l>But till that's done, we muſt not all cry Shame.</l>
+            <l>Our preſent <hi>Prince</hi> of all the <hi>Norman</hi> Race,</l>
+            <l>Is come the neareſt to the Chriſtian Pace.</l>
+            <pb n="5" facs="tcp:93907:3"/>
+            <!-- PDF PAGE 44 -->
+            <l>Who ever promis'd Liberty before,</l>
+            <l>As he hath done; their Conduct was to Gore</l>
+            <l>Their quiet Subjects, by that ugly Fate,</l>
+            <l>Truth to Defend, by Knock down Laws of State.</l>
+            <l>His Conduct is, That <hi>Liberty</hi> may ſtand</l>
+            <l>Like <hi>Mead</hi> and <hi>Perſian</hi> Laws within his Land</l>
+            <l>That ſo great Truth may get the Upper-hand.</l>
+            <l>Which doubtleſs will, when we do all agree</l>
+            <l>To joyn with him for Chriſtian <hi>Liberty.</hi>
+            </l>
+            <l>And to be plain, we muſt now here declare</l>
+            <l>We may Bleſs God for ſuch a Chriſtian Heir</l>
+            <l>As he hath ſent us to aſcend the Throne,</l>
+            <l>For by his mild and gentle Hand alone,</l>
+            <l>(Though back'd with Human Force) he doth begin</l>
+            <l>In this our Iſle to pluck the Man of Sin</l>
+            <l>Out of his Throne and may he ſtill ſucceed:</l>
+            <l>(Of ſuch a <hi>Prince;</hi> we never had more need)</l>
+            <l>And ſo make way for a more Chriſtian State</l>
+            <l>Which ſhall Treat all without a Broken Pate,</l>
+            <l>Ho <hi>Anti-chriſtos</hi> then will have Jeck Mate.</l>
+            <l>Once <hi>England</hi>'s Prince with Reſolution Bold,</l>
+            <l>When he was King, the <hi>Pope</hi> himſelf Cajol'd,</l>
+            <l>Shook off the <hi>Mitre</hi> from his Supream Head,</l>
+            <l>And ſent it Home to <hi>Tyber</hi> unto Bed:</l>
+            <l>No more to Lodge within his Royal Bower,</l>
+            <l>Becauſe all Stuff and <hi>Anti-chriſtian</hi> Power.</l>
+            <l>So our Great Prince had he not broke the Ice,</l>
+            <l>Some Dog-Stars ſtill would here have rul'd the Dice.</l>
+            <pb n="6" facs="tcp:93907:4"/>
+            <!-- PDF PAGE 45 -->
+            <l>A Second <hi>Cyrus!</hi> By his great Command</l>
+            <l>To Build God's Temple in our Chriſtian Land;</l>
+            <l>VVhich was demoliſh'd then from time to time,</l>
+            <l>VVhen <hi>Chriſtian Truths</hi> by <hi>Laws</hi> were made a <hi>Crime:</hi>
+            </l>
+            <l>And did declare (we knew) to Maſter <hi>Pen,</hi>
+            </l>
+            <l>His Judgment was a Freedom to all Men,</l>
+            <l>In Sacred things; which was ſo fair and juſt,</l>
+            <l>That in that word Our ſelf did put our Truſt,</l>
+            <l>And many more of our moſt Noble Crew</l>
+            <l>Though all Nick-nam'd, are <hi>Proteſtants true Blew;</hi>
+            </l>
+            <l>And all ſhall own that we are truly Loyal,</l>
+            <l>If once the King of us ſhould make but Tryal.</l>
+            <l>And thoſe that will not joyn in ſuch a Plot,</l>
+            <l>May all their Names for ever Die and Rot:</l>
+            <l>But if he was Impos'd upon in this,</l>
+            <l>Let <hi>Jeſuits</hi> Pay for their own Rods in Piſs.</l>
+            <l>If underneath themſelves did lay a Snake,</l>
+            <l>Shall we blame <hi>Caeſar</hi> for ſuch Villains ſake?</l>
+            <l>Let them now ſuffer in the name of <hi>Jove,</hi>
+            </l>
+            <l>But to our King let us return in Love:</l>
+            <l>And if a Crime in theſe our Booted Men,</l>
+            <l>Inſtead of one, we wiſh there had gone ten.</l>
+            <l>And if a greater Force now ſet us Free,</l>
+            <l>And ſhall redeem us from CAPTIVITY,</l>
+            <l>Still thank our King and his great <hi>Orange-Tree.</hi>
+            </l>
+            <l>Next under God, though to ſome People Strange,</l>
+            <l>For in Extreams God often works a Change:</l>
+            <l>When Orphans Cries and Widdows Tears do hap,</l>
+            <l>Then <hi>Jove</hi> ſends down his mighty Thunder-clap</l>
+            <pb n="7" facs="tcp:93907:4"/>
+            <!-- PDF PAGE 45 -->
+            <l>For their Relief, and many Sturdy Oaks</l>
+            <l>Muſt then fall down at ſuch great Thunder-ſtroaks.</l>
+            <l>Thoſe that here firſt with their ſtrong Lyons Paws</l>
+            <l>Did Tear from us our Liberties and Laws;</l>
+            <l>Gave up our <hi>Charters,</hi> and Betray'd their Truſt,</l>
+            <l>Theſe are the Men of all Men ſure that muſt</l>
+            <l>Now pay the Baker, none can them Defend;</l>
+            <l>Our Regulators were the Nations Friend:</l>
+            <l>And what they did in their progreſſive Round,</l>
+            <l>Was to get Members True, Sincere and Sound:</l>
+            <l>And if the Country now ſend ſuch as theſe,</l>
+            <l>We fear them not, for they will give us Eaſe.</l>
+            <l>No more expoſe us to the Rage of ſome</l>
+            <l>Who would Enſlave us till the day of Doom:</l>
+            <l>We know them well, and to be plain, are ſuch</l>
+            <l>Who now look Pale by reaſon of the <hi>Dutch</hi>
+            </l>
+            <l>Upon our Coaſt, (and in our Land beſide)</l>
+            <l>To ſee them Sail both with the Wind and Tide:</l>
+            <l>Nay ſome do fear they ſhall be made ſo Free,</l>
+            <l>To take their Swing upon that Soveraign <hi>Tree</hi>
+            </l>
+            <l>VVhich Cures Men of all their Frantick Fits</l>
+            <l>Before they run ſtark mad out of their Wits.</l>
+            <l>We wiſh our Muſe were not Prophetical</l>
+            <l>At this Conjuncture, ſome cry Hang up all;</l>
+            <l>Though we do hope, if ſome ſhall pay the Score,</l>
+            <l>'Twill make Attonement for ten Thouſand more.</l>
+            <l>We wiſh it may, <hi>Trimmers</hi> are not for Blood,</l>
+            <l>But for all things of Univerſal Good.</l>
+            <pb n="8" facs="tcp:93907:5"/>
+            <!-- PDF PAGE 46 -->
+            <l>Here's <hi>Multum in parvo</hi> for that noble Race,</l>
+            <l>Though Honeſt <hi>Roger</hi> did them ſo Diſgrace;</l>
+            <l>
+               <hi>Trimmers</hi> were worſe Men in that Tory Day</l>
+            <l>Than <hi>Popiſh Prieſts,</hi> or <hi>Dutch men</hi> at <hi>Tor-Bay.</hi>
+            </l>
+            <l>Our Truſty Friend did then ſo ſet them out,</l>
+            <l>Nothing would ſerve him but a total Rout</l>
+            <l>Of all ſuch Men, who then were down the Wind;</l>
+            <l>But ſince got up, Remember EHVER KYND,</l>
+            <l>What he then told them, when at loweſt Ebb,</l>
+            <l>Their <hi>Tory</hi> Actions were a Spider's Webb.</l>
+            <l>They ran ſo faſt for to Advance the <hi>Pope,</hi>
+            </l>
+            <l>And would not ſtop, till they had Crack'd the Rope</l>
+            <l>Was not Aſham'd to tell them to their Face,</l>
+            <l>Their Church's Cauſe they would (at laſt) Diſgrace:</l>
+            <l>Though for his Pains they call'd him Fool and Aſs</l>
+            <l>Pray ask them now how much is come to paſs.</l>
+            <l>So Honeſt <hi>Baies,</hi> who then did ſwear ſo high,</l>
+            <l>May now ſit down and ſing ſweet Lullaby;</l>
+            <l>Lullaby Baby, Lullaby Baby,</l>
+            <l>Lullaby Baby, ſweet Lullaby.</l>
+            <l>Nay in thoſe times our Friend declar'd ſo plain,</l>
+            <l>In his Dogmatick and Burleſquing Strain, <hi>&amp;c.</hi>
+            </l>
+            <l>It was impoſſible for <hi>Whigs</hi> to ſee</l>
+            <l>In <hi>England</hi> more a year of <hi>Jubilee.</hi>
+            </l>
+            <l>He w<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Prophet when he Soar'd ſo high,</l>
+            <l>But what has now God only knows not <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </l>
+            <l>But yet we'll do him all the Right we can,</l>
+            <l>By reaſon now he is a helpleſs Man:</l>
+            <pb n="9" facs="tcp:93907:5"/>
+            <!-- PDF PAGE 46 -->
+            <l>His Aged years do now come on ſo faſt,</l>
+            <l>It is impoſſible he long ſhould laſt.</l>
+            <l>His Hoary Head ſhould move us all to Pity,</l>
+            <l>For by his Hand God hath preſerv'd our City,</l>
+            <l>And Country too, as we could make it out,</l>
+            <l>But muſt reſerve it for another Bout.</l>
+            <l>In the mean while God Bleſs his Aged years,</l>
+            <l>And keep us all from Jealouſies and Fears:</l>
+            <l>Though there was none when he did uſe to write;</l>
+            <l>When ſome appear'd, he bid us all Good night.</l>
+            <l>Thanks to his Worſhip for the Care he took,</l>
+            <l>When moſt in Danger, then to Cloſe his Book;</l>
+            <l>Left Church and State together in the Lurch,</l>
+            <l>And yet remains a true Son of the Church.</l>
+            <l>Had he ſtood right, they might have ſtem'd the Tide</l>
+            <l>When to ſome Clergy was their Supream Guide:</l>
+            <l>He taught them <hi>Non Reſiſtance</hi> in his time,</l>
+            <l>But now they ſay he is a dull Divine.</l>
+            <l>And when he left them ſole and all Forlorn</l>
+            <l>Turn'd Cat in Pan to Men of Forty One.</l>
+            <l>The <hi>Forty Eight Men</hi> were another thing,</l>
+            <l>By armed Force they did cut off their King:</l>
+            <l>The <hi>Forty One Men</hi> did not run ſo far,</l>
+            <l>They only call'd <hi>Delinquents</hi> to the <hi>Bar:</hi>
+            </l>
+            <l>And if His Majeſty had with them joyn'd,</l>
+            <l>To make him Happy their Souls had combin'd.</l>
+            <l>If theſe were Rebels, ſome now are the ſame,</l>
+            <l>Or elſe our Genious is but weak and lame;</l>
+            <pb n="10" facs="tcp:93907:6"/>
+            <!-- PDF PAGE 47 -->
+            <l>They both are Rebels, or they both are not,</l>
+            <l>Here lies the ſtreſs of the new <hi>Orange</hi> Plot.</l>
+            <l>No Circumſtance can make an ill Cauſe Good,</l>
+            <l>
+               <hi>Malum in ſe,</hi> will never be <hi>Sweet Wood;</hi>
+            </l>
+            <l>No <hi>Orange Trees</hi> can have a flagrant ſmell,</l>
+            <l>Which are produced near the Gates of Hell:</l>
+            <l>You muſt compound, and for the future ſay,</l>
+            <l>The <hi>Forty One Men</hi> did not run aſtray;</l>
+            <l>You did not underſtand the <hi>Good Old Cauſe</hi>
+            </l>
+            <l>So well as now, for <hi>Liberties</hi> and <hi>Laws</hi>
+            </l>
+            <l>VVhich was in danger, ſo to make amends,</l>
+            <l>You muſt them call your <hi>Old Reforming Friends:</hi>
+            </l>
+            <l>The name of <hi>Rebel</hi> now you muſt leave out,</l>
+            <l>And ſo confeſs that they were Champions Stout:</l>
+            <l>For <hi>Liberty</hi> and <hi>Property</hi> like you,</l>
+            <l>A thing moſt ſtrange, though not ſo ſtrange as true:</l>
+            <l>Our <hi>Eighty Eight Men,</hi> ſhould they now proceed,</l>
+            <l>So as to cauſe our Sovereign's Heart to bleed;</l>
+            <l>VVe here declare, and do proteſt before</l>
+            <l>Almighty God, we'll never truſt them more:</l>
+            <l>To <hi>Forty One</hi> they are already come,</l>
+            <l>But <hi>Forty Eight</hi> was <hi>Devil</hi> upon <hi>Dun;</hi>
+            </l>
+            <l>To <hi>Forty One</hi> they run upon the ſtreight,</l>
+            <l>But let them have a care of <hi>Forty Eight;</hi>
+            </l>
+            <l>That is a <hi>Bog</hi> which will devour us all,</l>
+            <l>Blow up the <hi>Thames,</hi> and drown our <hi>King's White-hall:</hi>
+            </l>
+            <l>VVe wiſh them well, and as they ſhall proceed,</l>
+            <l>VVe'll watch their water as we ſhall have need:</l>
+            <pb n="11" facs="tcp:93907:6"/>
+            <!-- PDF PAGE 47 -->
+            <l>The Mighty God, the everlaſting King,</l>
+            <l>To whom the <hi>Angels Holy Anthems</hi> ſing;</l>
+            <l>Be thou intreated for this ſinful Land,</l>
+            <l>Now ſave us all by thy Almighty hand;</l>
+            <l>Let all our Wars and all our Feuds now ceaſe,</l>
+            <l>And let <hi>Great James</hi> proclaim a Happy Peace:</l>
+            <l>Let our drawn <hi>Swords,</hi> our <hi>Guns</hi> and <hi>Battle-Ax,</hi>
+            </l>
+            <l>Be turn'd at laſt into a whisking <hi>Tax:</hi>
+            </l>
+            <l>Let <hi>Souldiers</hi> be disbanded one by one,</l>
+            <l>Save only thoſe that guard the <hi>Royal Throne;</hi>
+            </l>
+            <l>And when he wants them, let a <hi>Parliament</hi>
+            </l>
+            <l>Open our <hi>Purſes,</hi> to his Hearts content.</l>
+            <l>Give him the Hearts of all his Subjects, then</l>
+            <l>He never will want Money, Arms, nor Men:</l>
+            <l>This we implore upon our bended Knee,</l>
+            <l>That <hi>King</hi> and <hi>Parliament</hi> may thus agree:</l>
+            <l>Then we will ſing, <hi>God Save Great</hi> James <hi>the Juſt,</hi>
+            </l>
+            <l>And never more <hi>His Royal Word Diſtruſt:</hi>
+            </l>
+            <l>This <hi>Plot</hi> is better than thoſe <hi>Bloudy Scroles,</hi>
+            </l>
+            <l>VVhich ſome do <hi>Fear,</hi> from our <hi>Dear Joyes</hi> and <hi>Sholes,</hi>
+            </l>
+            <l>May be tranſacted in our <hi>City Great;</hi>
+            </l>
+            <l>
+               <hi>Great London</hi> know, this cannot do their <hi>Feat;</hi>
+            </l>
+            <l>If they ſhall come in the <hi>dark ſilent Night,</hi>
+            </l>
+            <l>Let them now know you are reſolv'd to Fight,</l>
+            <l>Not dye like <hi>Dogs,</hi> by ſuch <hi>Hobgoblin Elves,</hi>
+            </l>
+            <l>
+               <hi>Killing's</hi> no <hi>Murder</hi> to <hi>Preſerve</hi> your ſelves.</l>
+            <l>
+               <hi>Se defendendo</hi> is a Point ſo plain,</l>
+            <l>Dame Nature plants it into each Man's Brain;</l>
+            <pb n="12" facs="tcp:93907:7"/>
+            <!-- PDF PAGE 48 -->
+            <l>VVhich God forbid ſhould ever come to paſs,</l>
+            <l>By <hi>Talbot</hi>'s Dog, or by <hi>Tirconnel</hi>'s Aſs;</l>
+            <l>But if it ſhould, this Doctrine will come true,</l>
+            <l>The Sword muſt end what fair Means could not do;</l>
+            <l>We do preſume, in your Names, to declare</l>
+            <l>Againſt ſuch <hi>Hell-hounds,</hi> here an open VVar;</l>
+            <l>And thoſe that will not joyn with you herein,</l>
+            <l>They are all Rebels to our <hi>Lord</hi> the <hi>King.</hi>
+            </l>
+            <l>VVe are his Servant, and eat of his <hi>Bread;</hi>
+            </l>
+            <l>In all things Juſt; Our <hi>Royal Maſter</hi>'s <hi>Head</hi>
+            </l>
+            <l>VVe muſt <hi>Trim</hi> up, as we have ever done,</l>
+            <l>And ſo will do, whilſt we can ſee the <hi>Sun:</hi>
+            </l>
+            <l>VVere we his <hi>Tonſor,</hi> at this preſent time,</l>
+            <l>VVe'd round his <hi>Royal Ears</hi> with ſuch a Chime,</l>
+            <l>VVhom he ſhoull truſt, and whom he now ſhould Fear,</l>
+            <l>No <hi>Orange-Trees,</hi> only the <hi>Roman Chair;</hi>
+            </l>
+            <l>VVhich we do hope he will, in <hi>God</hi>'s due time,</l>
+            <l>Then he'll be Nurſe to the true <hi>Chriſtian Line;</hi>
+            </l>
+            <l>VVhich <hi>God Almighty</hi> grant, for his <hi>Son</hi>'s ſake,</l>
+            <l>That, in the Graſs, he may diſcern the <hi>Snake</hi>
+            </l>
+            <l>VVhich ſome had laid, by their prevailing Pate,</l>
+            <l>In this our Land, to blow up <hi>Church</hi> and <hi>State:</hi>
+            </l>
+            <l>Heav'ns now protect Him from that <hi>Bloudy Race,</hi>
+            </l>
+            <l>And in his <hi>Court,</hi> no more, may ſhew their <hi>Face,</hi>
+            </l>
+            <l>VVho did his <hi>Crown</hi> and <hi>Scepter</hi> ſo much ſhake,</l>
+            <l>
+               <hi>God grant</hi> he may, now ſafer <hi>Council</hi> take. <hi>Amen.</hi>
+            </l>
+            <epigraph>
+               <q>
+                  <p>Poſt tenebras ſplendit, ſurgit poſt nubila</p>
+                  <bibl>
+                     <hi>Phoebus.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:93907:7"/>
+            <!-- PDF PAGE 48 -->
+         </div>
+      </body>
+   </text>
+</TEI>
